@@ -26,11 +26,23 @@ kegagalan saat menjalankan perintah ```git commit```
 ``$ git config --global user.email "nama_user"``
 
 # Perintah Dasar Git
-* git init, perintah untuk membuat repository local
-* git add, perintah untuk menambahkan file baru, atau perubahan pada file
+* ``git init`` , perintah untuk membuat repository local
+* ``git add``, perintah untuk menambahkan file baru, atau perubahan pada file
 pada staging sebelum proses commit.
-* git commit, perintah untuk menyimpan perubahan kedalam database git.
-* git push -u origin master, perintah untuk mengirim perubahan pada repository local menuju server repository.
-* git clone [url], perintah untuk membuat working directory yang diambil dari repositry sever.
-* git remote add origin [url], perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory)
-* git pull, perintah untuk mengambil/mendownload perubahan terbaru dari server repository ke local repository
+* ``git commit``, perintah untuk menyimpan perubahan kedalam database git.
+* ``git push -u origin master``, perintah untuk mengirim perubahan pada repository local menuju server repository.
+* ``git clone [url]``, perintah untuk membuat working directory yang diambil dari repositry sever.
+* ``git remote add origin [url]``, perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory)
+* ``git pull``, perintah untuk mengambil/mendownload perubahan terbaru dari server repository ke local repository
+
+# Membuat Reposiory Local
+* Buka direktory aktif, misal: '/Desktop/belajar-git'
+* Drop direktori ke terminal / CMD
+* Buat direktory project praktikum pertama dengan nama latihan1
+
+ ``$ mkdir latihan1``
+ 
+ ``$ cd latihan1``
+ 
+* Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory)
+* direktory aktif menjadi: /Desktop/belajar-git/latihan1
