@@ -8,11 +8,9 @@
 * Download **GIT**, Buka website resminya Git [git-scm.com](https://git-scm.com).
 * Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
 * Selamat, Git sudah terinstal. Untuk mencobanya,silahkan buka **Terminal** atau **CMD**,kemudian ketik perintah <br>
-```git --version.```
-<br>
+```git --version.``` <br>
 ![git --version](https://fajars.space/ngampus/pemrograman/git/img/1.png)
 
-![Untitled11](https://user-images.githubusercontent.com/56942922/67683986-eefd6180-f9c4-11e9-89f4-9bdc1306098d.png)
 # Menambahkan Global Config
 * Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi
 user.name dan user.email
@@ -25,3 +23,13 @@ kegagalan saat menjalankan perintah ```git commit```
 ``$ git config --global user.name "nama_user"``
 
 ``$ git config --global user.email "nama_user"``
+
+# Perintah Dasar Git
+* git init, perintah untuk membuat repository local
+* git add, perintah untuk menambahkan file baru, atau perubahan pada file
+pada staging sebelum proses commit.
+* git commit, perintah untuk menyimpan perubahan kedalam database git.
+* git push -u origin master, perintah untuk mengirim perubahan pada repository local menuju server repository.
+* git clone [url], perintah untuk membuat working directory yang diambil dari repositry sever.
+* git remote add origin [url], perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory)
+* git pull, perintah untuk mengambil/mendownload perubahan terbaru dari server repository ke local repository
