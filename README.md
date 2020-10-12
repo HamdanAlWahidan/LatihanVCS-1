@@ -7,8 +7,9 @@
 # Instalasi GIT
 * Download **GIT**, Buka website resminya Git [git-scm.com](https://git-scm.com).
 * Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
-* Selamat, Git sudah terinstal. Untuk mencobanya,silahkan buka **Terminal** atau **CMD**,kemudian ketik perintah <br>
-```git --version.``` <br>
+* Selamat, Git sudah terinstal. Untuk mencobanya,silahkan buka **Terminal** atau **CMD**,kemudian ketik perintah
+  
+  ``git --version.``
 
 ![git --version](https://fajars.space/ngampus/pemrograman/git/img/1.png)
 
@@ -21,9 +22,9 @@ repository.
 kegagalan saat menjalankan perintah ```git commit```
 * Config Global Repository
 
-``$ git config --global user.name "nama_user"``
+  ``$ git config --global user.name "nama_user"``
 
-``$ git config --global user.email "nama_user"``
+  ``$ git config --global user.email "nama_user"``
 
 # Perintah Dasar Git
 * ``git init`` , perintah untuk membuat repository local
@@ -46,3 +47,22 @@ pada staging sebelum proses commit.
  
 * Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory)
 * direktory aktif menjadi: /Desktop/belajar-git/latihan1
+* Jalankan perintah git init, untuk membuat repository local. 
+``$ git init``
+* Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama .git
+* Pada direktori tersebut, semua perubahan pada working directory akan disimpan.
+
+# Menambahkan File baru pada repository
+* Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository)
+* disini kita akan coba buat satu file bernama README.md (text file)
+
+  ``$ echo “# Latihan 1” >> README.md``
+
+* File README.md berhasil dibuat.
+
+![readme,md created](https://fajars.space/ngampus/pemrograman/git/img/2.png)
+
+
+
+
+
