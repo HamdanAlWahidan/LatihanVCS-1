@@ -113,6 +113,14 @@ pada staging sebelum proses commit.
 * Maka perubahan akan terlihat pada laman tersebut.
 
   ![rexona percaya](https://fajars.space/ngampus/pemrograman/git/img/8.png)
+  
+# Clone Repository
+* Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
+* Untuk melakukan cloning, gunakan perintah git clone [url]
+  
+  ``git clone https://github.com/fajarbaiz/latihan-git.git``
+
+  ![clone](https://fajars.space/ngampus/pemrograman/git/img/9.png)
 
 
 
