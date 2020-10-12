@@ -107,6 +107,12 @@ pada staging sebelum proses commit.
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
 
   ![push](https://fajars.space/ngampus/pemrograman/git/img/7.png)
+  
+# Lihat hasilnya pada server repository
+* Buka laman github.com, arahkan pada repositori- nya.
+* Maka perubahan akan terlihat pada laman tersebut.
+
+  ![rexona percaya](https://fajars.space/ngampus/pemrograman/git/img/8.png)
 
 
 
