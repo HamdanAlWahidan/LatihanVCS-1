@@ -88,10 +88,25 @@ pada staging sebelum proses commit.
   ![new repo](https://fajars.space/ngampus/pemrograman/git/img/5.png)
 
 # Membuat repository server
-* Isi nama repositorynya, misal: latihan-git 
+* Isi nama repository nya, misal: Latihan-git 
 * lalu klik tombol Create repository
   
   ![create repo](https://fajars.space/ngampus/pemrograman/git/img/6.png)
+  
+# Menambahkan Remote Repository
+* Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user.
+* Untuk menambahkan remote repository server, gunakan perintah git remote add origin [url]
+  
+  ``$ git remote add origin https://github.com/fajarbaiz/latihan-git.git``
+  
+# Push (Mengirim perubahan ke server)
+* Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
+  
+  ``$ git push -u origin master``
+  
+* Perintah ini akan meminta memasukkan username dan password pada akun github.com
+
+  ![push](https://fajars.space/ngampus/pemrograman/git/img/7.png)
 
 
 
