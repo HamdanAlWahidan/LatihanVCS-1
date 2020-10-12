@@ -7,6 +7,6 @@
 # Instalasi GIT
 * Download **GIT**, Buka website resminya Git [git-scm.com](https://git-scm.com).
 * Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
-* Selamat, Git sudah terinstal. Untuk mencobanya,silahkan buka **Terminal** atau **CMD**,kemudian ketik perintah
+* Selamat, Git sudah terinstal. Untuk mencobanya,silahkan buka **Terminal** atau **CMD**,kemudian ketik perintah <br>
 ```git --version.```
 ![git --version](https://fajars.space/ngampus/pemrograman/git/img/1.png)
