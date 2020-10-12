@@ -1,11 +1,11 @@
 # PENGGUNAAN GIT
 
-# Apa Itu GIT ?
+# Apa itu Git ?
 * Git adalah salah satu sistem pengontrol versi(Version Control System) pada proyek perangkat lunak yang diciptakan Linus Torvalds.
 * Pengontrol versi bertugas memcatat setiap perubahan pada file proyek yang dikerjakan oleh banyak orang maupun sendiri.
 * Git dikenal juga dengan distributed revision control (VCS terdistribusi), artinya penyimpanan database Git tidak hanya berada dalam satu tempat saja.
-# Instalasi GIT
-* Download **GIT**, Buka website resminya Git [git-scm.com](https://git-scm.com).
+# Instalasi Git
+* Download **Git**, Buka website resminya Git [git-scm.com](https://git-scm.com).
 * Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
 * Selamat, Git sudah terinstal. Untuk mencobanya,silahkan buka **Terminal** atau **CMD**,kemudian ketik perintah
   
