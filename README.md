@@ -40,9 +40,9 @@ pada staging sebelum proses commit.
 * Drop direktori ke terminal / CMD
 * Buat direktory project praktikum pertama dengan nama latihan1
 
- ``$ mkdir latihan1``
+ &emsp ``$ mkdir latihan1``
  
- ``$ cd latihan1``
+ &emsp ``$ cd latihan1``
  
 * Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory)
 * direktory aktif menjadi: /Desktop/belajar-git/latihan1
