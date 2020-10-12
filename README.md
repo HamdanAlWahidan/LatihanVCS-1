@@ -6,7 +6,7 @@
 * Git dikenal juga dengan distributed revision control (VCS terdistribusi), artinya penyimpanan database Git tidak hanya berada dalam satu tempat saja.
 # Instalasi GIT
 * Download **GIT**, Buka website resminya Git [git-scm.com](https://git-scm.com).
-* Kemudian unduh Git sesuai dengan arsitektur komputer kita.
-![git --version](https://fajars.space/ngampus/pemrograman/git/img/1.png)
+* Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
 * Selamat, Git sudah terinstal. Untuk mencobanya,silahkan buka **Terminal** atau **CMD**,kemudian ketik perintah
 ```git --version.```
+![git --version](https://fajars.space/ngampus/pemrograman/git/img/1.png)
