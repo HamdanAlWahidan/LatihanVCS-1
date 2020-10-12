@@ -11,7 +11,7 @@
   
   ``git --version.``
 
-![git --version](https://fajars.space/ngampus/pemrograman/git/img/1.png)
+  ![git --version](https://fajars.space/ngampus/pemrograman/git/img/1.png)
 
 # Menambahkan Global Config
 * Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi
@@ -60,7 +60,16 @@ pada staging sebelum proses commit.
 
 * File README.md berhasil dibuat.
 
-![readme,md created](https://fajars.space/ngampus/pemrograman/git/img/2.png)
+  ![readme.md created](https://fajars.space/ngampus/pemrograman/git/img/2.png)
+
+# Menambahkan File baru pada repository
+* Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
+  
+  ``$ git add README.md``
+  
+* File README.md berhasil ditambahkan.
+
+  ![readme.md add created](https://fajars.space/ngampus/pemrograman/git/img/3.png)
 
 
 
