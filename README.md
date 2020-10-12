@@ -1,4 +1,4 @@
-# Penggunaan GIT
+# PENGGUNAAN GIT
 
 # Apa Itu GIT ?
 * Git adalah salah satu sistem pengontrol versi(Version Control System) pada proyek perangkat lunak yang diciptakan Linus Torvalds.
@@ -70,8 +70,28 @@ pada staging sebelum proses commit.
 * File README.md berhasil ditambahkan.
 
   ![readme.md add created](https://fajars.space/ngampus/pemrograman/git/img/3.png)
+  
+# Commit (Menyimpan perubahan ke database)
+* Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah 
 
+  ``git commit -m “komentar commit” $ git commit -m 'File pertama saya'``
 
+* Perubahan berhasil disimpan.
+  
+   ![commit pertama](https://fajars.space/ngampus/pemrograman/git/img/4.png)
+   
+# Membuat repository server
+* Server reopsitory yang akan kita gunakan adalah http://github.com, Anda harus membuat akun terlebih dahulu.
+* Pada laman github, klik tombol start a project, atau
+* Dari menu (icon +) klik New Repository
+
+  ![new repo](https://fajars.space/ngampus/pemrograman/git/img/5.png)
+
+# Membuat repository server
+* Isi nama repositorynya, misal: latihan-git 
+* lalu klik tombol Create repository
+  
+  ![create repo](https://fajars.space/ngampus/pemrograman/git/img/6.png)
 
 
 
