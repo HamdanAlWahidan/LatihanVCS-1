@@ -13,7 +13,7 @@
   
   ``git --version.``
 
-  ![git --version](https://fajars.space/ngampus/pemrograman/git/img/1.png)
+  ![git --version](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN7_MODUL_PRAKTIKUM2/blob/main/Modul%20Praktikum%202/Latihan2.png)
 
 # Menambahkan Global Config
 * Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi
